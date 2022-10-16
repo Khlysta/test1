@@ -51,4 +51,4 @@ Git - это одна из реализаций распределённых с�
 
 ### Картинки
 
-![Собака](https://lubertsyriamo.ru/files/image/19/00/60/-lg!owg.jpg)
+![street](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Balasta_dambis_%282%29.jpg/1024px-Balasta_dambis_%282%29.jpg)
